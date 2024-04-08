@@ -1,0 +1,21 @@
+<resources>
+<!--Nombre de la Aplicacion-->
+    <string name="app_name">APK_Elxit</string>
+<!--Subtitulos-->
+    <string name="present">Hola Bienvenido a Elxit</string>
+    <string name="eleccion">Eres un Nuevo Usuario?</string>
+<!--Aqui estan los Botones de SI o NO-->
+    <string name="bt1">Si</string>
+    <string name="bt2">No</string>
+
+<!--Aqui estara el formulario para el boton NO de Inicio de Sesion-->
+    <string name="nombre">Usuario</string>
+    <string name="contra">Contraseña</string>
+    <string name="numero">Numero</string>
+    <string name="correo">Correo Electronico</string>
+
+<!--Aqui estara la Descripcion-->
+    <string name="description">Presione 2 veces -SI- para aparecer o desaparecer el Formulario y 2 veces -NO- para lo mismo</string>
+
+
+</resources>
